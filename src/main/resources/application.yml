@@ -1,0 +1,12 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: @project.artifactId@
+jenkins:
+  username: fengsulin
+  token: 1xxxxxxxx89a
+  url: http://xxxx:8080
+logging:
+  level:
+    root: info
